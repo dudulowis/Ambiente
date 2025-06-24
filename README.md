@@ -11,4 +11,26 @@ Vamos criar um diretório para guardar(armazenar) a nossa máquina virtual. Ser�
 
 <img src="tela-inicial-virtualbox.png">
 
-<a href=https://www.virtualbox.org/wiki/Downloads>
+<a href="https://www.virtualbox.org/wiki/Downloads"> Faça o download aqui </a>
+
+## Criando a máquina virtual
+### Crie a máquina virtual usando as seguintes configurações:
+
+- Depois de alocar a sua máquina virtual no diretório criado na unidade D ; 
+- Selecione a imagem ISO, download abaixo.
+<a href="https://ubuntu.com/download/server"> Faça o download aqui! </a>
+
+<img src="nova-vm.png">
+
+### Coloque: 
+- 2 processadores ;
+- 4096 de memória ;
+
+<img src="memoria.png">
+
+- disco: 100GB ;
+
+<img src="disco.png">
+
+## Agora, com a VM (Virtual Machine / Máquina Virtual) DESLIGADA!
+- Altere a memória de vídeo para 128MB
